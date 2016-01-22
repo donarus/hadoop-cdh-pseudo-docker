@@ -78,6 +78,9 @@ EXPOSE 8888
 # Spark history server
 EXPOSE 18080
 
+# Spark history server #2
+EXPOSE 18088
+
 # Technical port which can be used for your custom purpose.
 EXPOSE 9999
 
